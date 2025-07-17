@@ -5,7 +5,7 @@ I am currently searching for professional experience and opportunities to apply 
 ## Featured Projects
 
 - [Predictive Model for Batted Ball Outcomes](https://github.com/AlbertCarreno/batted_ball_model)
-features an ensemble majority vode model that blends neural networks, random forest, and gradient boosting to achieve 88.3% accuracy.
+features an ensemble majority vode model that blends neural networks, random forests, and gradient boosting to achieve 88.3% accuracy.
 
 - [Pitch Type Model](https://github.com/AlbertCarreno/pitch_type_model)
 uses gradient boosting to categorize pitch types based on a multitude of factors like spin axis and vertical break. Achieved 95.4% accuracy.
