@@ -1,6 +1,6 @@
-## Hi, I'm Albert Carreno! I am a recent UCLA Statistics and Data Science graduate.
+## Welcome! My name is Albert Carreno. I'm a recent UCLA Statistics and Data Science graduate.
 
-I'm currently searching for professional experience and opportunities to apply my data science skills. I am very open to work in most industries. 
+I am currently searching for professional experience and opportunities to apply my data science skills and am very open to work in most industries. 
 
 ## Featured Projects
 
