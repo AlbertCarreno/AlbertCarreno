@@ -11,7 +11,7 @@ features an ensemble majority vode model that blends neural networks, random for
 uses gradient boosting to categorize pitch types based on a multitude of factors like spin axis and vertical break. Achieved 95.4% accuracy.
 
 - [Advanced SQL Queries](https://github.com/AlbertCarreno/advanced_sql)
-implements higher level tools like subqueries, CTEs, anti-joins, and window functions to return the desired information from a database. Worth noting that this code was for a class final project and related to databases that don't actually exist.
+Contains examples of complex queries written for a class final project. Leverages subqueries, CTEs, anti-joins, and window functions.
 
 - [Predicted Goals Model](https://github.com/AlbertCarreno/predicted_goals)
 uses random forest regression and gradient boosting quantile regression along with four seasons worth of NHL data to predict a player's goal total the following season.
